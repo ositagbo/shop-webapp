@@ -1,8 +1,5 @@
 package org.rs.samples;
 
-import javax.xml.bind.annotation.XmlRootElement;
-
-@XmlRootElement
 public class Transaction {
 	private long transactionId;
 	private String type;
