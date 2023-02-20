@@ -17,6 +17,7 @@
 		<version.arquillian_core>1.1.4.Final</version.arquillian_core>
 
 		<version.wildfly>8.0.0.Final</version.wildfly>
+		<!-- This is a comment. -->
 	</properties>
 
 	<prerequisites>
